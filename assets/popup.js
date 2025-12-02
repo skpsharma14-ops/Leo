@@ -31,7 +31,7 @@
   }
  
   // Call this on index.html
-  window.Popuplander = function () {
+  window.Popupindex = function () {
     const built = buildPopup();
     if (!built) return;
     const { bd, close } = built;
@@ -61,6 +61,7 @@
  
 
  
+
 
 
 
